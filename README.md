@@ -1,7 +1,7 @@
 # habit_tracker
 
-A new Flutter project to start with.
-Helps to keep track of activities list created.
+- A new Flutter project to start with.
+- Helps to keep track of activities list created.
 
 ![screenshot1](https://github.com/AyushAS04/habit_tracker/assets/95140328/b41e26cc-8875-4030-980a-250c7131baca)
 ![screenshot2](https://github.com/AyushAS04/habit_tracker/assets/95140328/db9ee56f-694f-4ab1-80af-648a6cac3d76)
