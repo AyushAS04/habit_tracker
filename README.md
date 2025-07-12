@@ -1,4 +1,4 @@
-# habit_tracker
+# HabitEase
 
 - A new Flutter basic project to start with.
 - Helps to keep track of your habits and activities list created.
